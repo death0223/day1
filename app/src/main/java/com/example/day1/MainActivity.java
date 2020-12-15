@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
 		
 =======
 	    //我是班长，画了一幅画，立马都会发了多少积分的萨芬吧阿斯蒂芬
+//你是就是把
 >>>>>>> a77c6b528635d66af48eacbbe1671c29b2dd046c
 		
     }
