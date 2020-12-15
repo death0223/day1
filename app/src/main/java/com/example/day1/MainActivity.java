@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 		//我提交的，你撒旦立刻就发发看的萨芬那边行政成本v现在看v在v
+	    //我是班长，画了一幅画，立马都会发了多少积分的萨芬吧阿斯蒂芬
 		
     }
 }
